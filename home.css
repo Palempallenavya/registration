@@ -1,0 +1,23 @@
+.home{
+    
+    display:flex;
+    flex-direction: column;
+    color: aliceblue;
+    padding: auto;
+}
+.h1{
+    text-align: center;
+    
+}
+
+.home-container{
+    
+    padding: 20px;
+    
+}
+button{
+    background-color: rgb(5, 5, 151);
+}
+body{
+    background-color: aqua;
+}
